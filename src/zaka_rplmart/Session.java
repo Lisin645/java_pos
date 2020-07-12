@@ -11,9 +11,7 @@ package zaka_rplmart;
  */
 public class Session {
     
-    static private String user     = "";
-    static private String nama     = "";
-    static private String level    = "";
+    static private String user, name, level;
     
     
     //set method
